@@ -1,3 +1,12 @@
+# .gitignore for this project
+
+backup_*
+cache_dir/
+disk_memo_cache/
+memo_cache_script/
+out_partial_script/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
